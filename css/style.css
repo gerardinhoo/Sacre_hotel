@@ -152,3 +152,7 @@ h3 {
   padding: 50px 50px;
   overflow: hidden;
 }
+
+#home-info .info-content p {
+  padding-bottom: 40px;
+}
